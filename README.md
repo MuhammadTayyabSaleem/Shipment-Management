@@ -16,7 +16,7 @@ and paste it in /Config/keys/mognoURI and uncomment the lines written for online
 MongoDB Locally in Server.js.
 *I have created an online db to run and test the system login with
 Username: superAdmin
-Password: aplha123
+Password: alpha123
 * If any error accur during $npm run dev see the error if it needs any module install that module in client directory by 
 * $ npm i “module name”
 INSTALATIONS:
